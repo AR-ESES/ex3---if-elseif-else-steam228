@@ -8,7 +8,7 @@ function setup() {
 
 function draw() {
 
-	stroke(230);
+	stroke(230,34,86);
 	strokeWeight(2);
 	noFill();
 	circle(width / 2, height / 2, height / 4);
